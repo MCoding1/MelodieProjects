@@ -8,4 +8,4 @@ A Compilation of Melodie's Programming Projects
 - CSS
 - Other
 
-[For More Information Visit Melodie's Computer Science Portfolio](https://mcoding1.github.io/melodieebrahimi/)
+[CLICK HERE For Melodie's Computer Science Portfolio](https://mcoding1.github.io/melodieebrahimi/)
