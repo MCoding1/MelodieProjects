@@ -1,5 +1,5 @@
 # MelodieProjects
-A Compilation of Melodie's Programming Projects
+A Compilation of Melodie's Programming & Engineering Projects (P4P Algorithm Code Cannot Be Made Public At This Time)
 
 ##Programmed In:
 - HTML
